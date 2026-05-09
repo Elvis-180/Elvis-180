@@ -1,4 +1,4 @@
-# SOC Analyst | SIEM | Detection Engineering | Network Security Monitoring
+# Cyber Security Analyst | SOC Analyst | Threat Hunting | Security Operations | Incident Response
 
 Security Operation Center Analyst Focused on in threat detection, SIEM analysis and security monitoring 
 <p>
