@@ -49,8 +49,8 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 ## Projects
 
 - RDP Brute Force Detection using Splunk SIEM  
-- HTTP Traffic Monitoring & Behavioral Analysis Lab  
-- Network Security Monitoring & Log Correlation Lab   
+- HTTP Traffic Monitoring & Behavioral Analysis  
+- SOC Monitoring Home Lab  
 
 ---
 
