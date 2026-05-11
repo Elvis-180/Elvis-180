@@ -9,13 +9,15 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 ---
 
-## Core Skills
+## 🛡️ Core Skills
 
-- SIEM Analysis (Splunk: correlation searches, alerting)
-- Snort (Intrusion Detection Systems)
-- Network Traffic Analysis (Wireshark packet inspection)
-- Firewall & Network Segmentation (pfSense)
-- Endpoint Telemetry (Windows Event Logs, Sysmon)
+| Category | Skills |
+|---|---|
+| SIEM & Detection | Splunk (SPL, Dashboards, Alerts) · Snort IDS · Sysmon |
+| Endpoint Security | Microsoft Defender EDR · Windows Event Logs |
+| Network Analysis | Wireshark · pfSense · TCP/IP · DNS · HTTP/S · RDP · SSH |
+| Operating Systems | Windows Server · Windows 10 · Ubuntu Server · Kali Linux |
+| Security Concepts | Threat Detection · Log Analysis · Incident Response · MITRE ATT&CK · Brute-Force Detection |
 
 ---
 
@@ -35,22 +37,21 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 </p>
 
 ---
-
 ## Security Focus Areas
-
-- Authentication attack detection (brute force, credential stuffing)
-- Network traffic anomaly detection
-- SIEM correlation rule engineering
-- Intrusion detection system tuning and validation
-- Log-based incident investigation
+Threat Detection        ████████████████████  
+Log Analysis            ████████████████████  
+Incident Response       ██████████████████░░  
+SIEM Operations         ██████████████████░░  
+Network Security        ████████████████░░░░  
+Endpoint Security       ███████████████░░░░░
 
 ---
 
 ## Projects
 
-- RDP Brute Force Detection using Splunk SIEM  
-- HTTP Traffic Monitoring & Behavioral Analysis  
-- SOC Monitoring Home Lab  
+- Soc Home Lab
+- Snort Splunk HTTP Monitor
+- RDP Bruteforce Detection Splunk mitre
 
 ---
 
