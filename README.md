@@ -38,12 +38,12 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 ---
 ## Security Focus Areas
-Threat Detection        ████████████████████  
-Log Analysis            ████████████████████  
-Incident Response       ██████████████████░░  
-SIEM Operations         ██████████████████░░  
-Network Security        ████████████████░░░░  
-Endpoint Security       ███████████████░░░░░
+Threat Detection       
+Log Analysis           
+Incident Response      
+SIEM Operations        
+Network Security        
+Endpoint Security      
 
 ---
 
