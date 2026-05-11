@@ -14,7 +14,6 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 | Category | Skills |
 |---|---|
 | SIEM & Detection | Splunk (SPL, Dashboards, Alerts) · Snort IDS · Sysmon |
-| Endpoint Security | Microsoft Defender EDR · Windows Event Logs |
 | Network Analysis | Wireshark · pfSense · TCP/IP · DNS · HTTP/S · RDP · SSH |
 | Operating Systems | Windows Server · Windows 10 · Ubuntu Server · Kali Linux |
 | Security Concepts | Threat Detection · Log Analysis · Incident Response · MITRE ATT&CK · Brute-Force Detection |
