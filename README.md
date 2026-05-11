@@ -47,11 +47,16 @@ Endpoint Security       ███████████████░░░�
 
 ---
 
-## Projects
+## 🧪 Projects
 
-- Soc Home Lab
-- Snort Splunk HTTP Monitor
-- RDP Bruteforce Detection Splunk mitre
+ **[SOC Home Lab ](https://github.com/Elvis-180/soc-home-lab#readme)**
+Tools: Splunk  · Snort · sysmon  · pfSense 
+
+ **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
+Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
+
+ **[RDP Brute-Force Detection ](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)**
+Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . Kali Linux
 
 ---
 
