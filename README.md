@@ -49,7 +49,7 @@ Endpoint Security       ███████████████░░░�
 
 ## Projects
 
-- Soc Home Lab
+- <a href="https://github.com/Elvis-180/soc-home-lab-/tree/main">soc home lab</a>
 - Snort Splunk HTTP Monitor
 - RDP Bruteforce Detection Splunk mitre
 
