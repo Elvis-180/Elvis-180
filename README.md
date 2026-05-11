@@ -9,7 +9,7 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 ---
 
-## 🛡️ Core Skills
+##  Core Skills
 
 | Category | Skills |
 |---|---|
@@ -46,7 +46,7 @@ Endpoint Security
 
 ---
 
-## 🧪 Projects
+##  Projects
 
  **[SOC Home Lab ](https://github.com/Elvis-180/soc-home-lab#readme)**
 Tools: Splunk  · Snort · sysmon  · pfSense 
