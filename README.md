@@ -61,6 +61,7 @@ Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . K
 Tools: Nmap . Snort (IDS) . Splunk (SIEM) . Pfsense (Firewall)
 
 **[Nessus Vulnerability Assesment](https://github.com/Elvis-180/nessus-vulnerability-assessment#rearme)**
+Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 10 . Kali Linux
 
 ---
 
