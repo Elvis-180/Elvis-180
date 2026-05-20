@@ -55,6 +55,7 @@ Endpoint Security
 Tools: Splunk  · Snort · sysmon  · pfSense (Firewall)
 
 **[Active Directory](https://github.com/Elvis-180/Active-Directory#rearme)**
+Tools: Active Directory . DHCP . DNS . Group Policy
 
  **[RDP Brute-Force Detection ](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)**
 Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . Kali Linux
