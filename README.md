@@ -70,5 +70,7 @@ Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 
  **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
 Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
 
+---
+
 ## Education 
 * **Vocational Qualification Certificate in Cybersecurity** - *Citis-Powerbache Education* (Completed: 2025)
