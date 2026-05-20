@@ -54,8 +54,7 @@ Endpoint Security
  **[SOC Home Lab ](https://github.com/Elvis-180/soc-home-lab#readme)**
 Tools: Splunk  · Snort · sysmon  · pfSense (Firewall)
 
- **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
-Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
+**[Active Directory](https://github.com/Elvis-180/Active-Directory#rearme)**
 
  **[RDP Brute-Force Detection ](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)**
 Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . Kali Linux
@@ -65,6 +64,10 @@ Tools: Nmap . Snort (IDS) . Splunk (SIEM) . Pfsense (Firewall)
 
 **[Nessus Vulnerability Assesment](https://github.com/Elvis-180/nessus-vulnerability-assessment#rearme)**
 Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 10 . Kali Linux
+
+
+ **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
+Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
 
 ---
 
