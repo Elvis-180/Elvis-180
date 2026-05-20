@@ -70,7 +70,5 @@ Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 
  **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
 Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
 
----
-
-## Objective
-To contribute as SOC Analyst by strengthening security monitoring and detection capabilities. Focused on identifying and investigating malicious activity through structured and data-driven security analysis.
+## Education 
+* **Vocational Qualification Certificate in Cybersecurity** - *Citis-Powerbache Education* (Completed: 2025)
