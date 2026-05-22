@@ -57,15 +57,17 @@ Tools: Splunk  · Snort · sysmon  · pfSense (Firewall)
 **[Active Directory](https://github.com/Elvis-180/Active-Directory#rearme)**
 Tools: Active Directory . DHCP . DNS . Group Policy
 
+ **[Phishing Simulation and Detection ](https://github.com/Elvis-180/phishing-simulation-and-detection#readme)**
+ Tools: Splunk (SIEM) . Pfsense (Firewall) . GoPhish . MailHog . MXToolbox Header Analyzer . Wireshark
+
  **[RDP Brute-Force Detection ](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)**
 Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . Kali Linux
-
-**[Nmap Network Scanning ](https://github.com/Elvis-180/nmap-network-scanning#readme)**
-Tools: Nmap . Snort (IDS) . Splunk (SIEM) . Pfsense (Firewall)
 
 **[Nessus Vulnerability Assesment](https://github.com/Elvis-180/nessus-vulnerability-assessment#rearme)**
 Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 10 . Kali Linux
 
+**[Nmap Network Scanning ](https://github.com/Elvis-180/nmap-network-scanning#readme)**
+Tools: Nmap . Snort (IDS) . Splunk (SIEM) . Pfsense (Firewall)
 
  **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
 Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
