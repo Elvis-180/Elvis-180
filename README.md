@@ -57,6 +57,9 @@ Tools: Splunk  · Snort · sysmon  · pfSense (Firewall)
 **[Active Directory](https://github.com/Elvis-180/Active-Directory#rearme)**
 Tools: Active Directory . DHCP . DNS . Group Policy
 
+**[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#rearme)**
+Tools: Splunk(SIEM) . Snort(IDS) . Nmap . Wireshark . Pfsense(Firewall) 
+
  **[Email Phishing Simulation and Detection ](https://github.com/Elvis-180/email-phishing-simulation-and-detection#readme)**
  Tools: Splunk (SIEM) . Pfsense (Firewall) . GoPhish . MailHog . MXToolbox Header Analyzer . Wireshark . Sysmon
 
