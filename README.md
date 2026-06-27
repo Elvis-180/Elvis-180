@@ -1,4 +1,4 @@
-# Cyber Security Analyst | SOC Analyst  | Threat Hunting | Incident Response
+# Cyber Security Analyst | SOC Analyst  | Threat Hunting and Incident Response
 
 Security Operation Center Analyst Focused on in threat detection, SIEM analysis and security monitoring 
 <p>
