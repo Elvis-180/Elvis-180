@@ -26,16 +26,23 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SIEM-FF6900?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IDS-4B0082?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sysmon-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sysmon-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nessus-00B4E3?style=for-the-badge&logo=tenable&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoPhish-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shuffle-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MailHog-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MXToolbox-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge"/>
 </p>
 
 ---
