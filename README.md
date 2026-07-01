@@ -39,41 +39,29 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 </p>
 
 ---
+
 ## Security Focus Areas
-Threat Detection       
-Log Analysis           
-Incident Response      
-SIEM Operations        
-Network Security        
-Endpoint Security      
+<div><img src="https://img.shields.io/badge/Threat%20Detection-E74C3C?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/Log%20Analysis-3498DB?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/Incident%20Response-2ECC71?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/SIEM%20Operations-8E44AD?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/Network%20Security-F39C12?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/Endpoint%20Security-00ACC1?style=for-the-badge"></div>
 
 ---
 
-##  Projects
+## Projects
 
- **[SOC Home Lab ](https://github.com/Elvis-180/soc-home-lab#readme)**
-Tools: Splunk  · Snort · sysmon  · pfSense (Firewall)
-
-**[Active Directory](https://github.com/Elvis-180/Active-Directory#rearme)**
-Tools: Active Directory . DHCP . DNS . Group Policy
-
-**[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#rearme)**
-Tools: Splunk(SIEM) . Snort(IDS) . Nmap . Wireshark . Pfsense(Firewall) 
-
- **[Email Phishing Simulation and Detection ](https://github.com/Elvis-180/email-phishing-simulation-and-detection#readme)**
- Tools: Splunk (SIEM) . Pfsense (Firewall) . GoPhish . MailHog . MXToolbox Header Analyzer . Wireshark . Sysmon
-
- **[RDP Brute-Force Detection ](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)**
-Tools: Splunk (SIEM) · Windows Server · Windows Event Logs · MITRE ATT&CK . Kali Linux
-
-**[Nessus Vulnerability Assesment](https://github.com/Elvis-180/nessus-vulnerability-assessment#rearme)**
-Tools: Nessus Essentials . Oracle VirtualBox . Ubuntu Server . Windows Server / 10 . Kali Linux
-
-**[Nmap Network Scanning ](https://github.com/Elvis-180/nmap-network-scanning#readme)**
-Tools: Nmap . Snort (IDS) . Splunk (SIEM) . Pfsense (Firewall)
-
- **[http traffic analysis ](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)**
-Tools: Snort (IDS) · Splunk (SIEM)· Ubuntu Server · Kali Linux
+| Project | Tools |
+|---------|-------|
+| **[SOC Home Lab](https://github.com/Elvis-180/soc-home-lab#readme)** | Splunk (SIEM), Snort (IDS), Sysmon, pfSense (Firewall) |
+| **[Active Directory](https://github.com/Elvis-180/Active-Directory#readme)** | Active Directory, DHCP, DNS, Group Policy |
+| **[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#readme)** | Splunk (SIEM), Snort (IDS), Nmap, Wireshark, pfSense (Firewall) |
+| **[Email Phishing Simulation and Detection](https://github.com/Elvis-180/email-phishing-simulation-and-detection#readme)** | Splunk (SIEM), pfSense (Firewall), GoPhish, MailHog, MXToolbox Header Analyzer, Wireshark, Sysmon |
+| **[RDP Brute-Force Detection](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)** | Splunk (SIEM), Windows Server, Windows Event Logs, MITRE ATT&CK, Kali Linux |
+| **[Nessus Vulnerability Assessment](https://github.com/Elvis-180/nessus-vulnerability-assessment#readme)** | Nessus Essentials, Oracle VirtualBox, Ubuntu Server, Windows Server, Windows 10, Kali Linux |
+| **[Nmap Network Scanning](https://github.com/Elvis-180/nmap-network-scanning#readme)** | Nmap, Snort (IDS), Splunk (SIEM), pfSense (Firewall) |
+| **[HTTP Traffic Analysis](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)** | Snort (IDS), Splunk (SIEM), Ubuntu Server, Kali Linux |
 
 ---
 
