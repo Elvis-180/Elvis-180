@@ -2,7 +2,7 @@
 
 Security Operation Center Analyst Focused on in threat detection, SIEM analysis and security monitoring 
 <p>
-  <a href="https://www.linkedin.com/in/tem-elvis-junior-5a713138b/">
+  <a href="https://www.linkedin.com/in/tem-elvis-5a713138b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
