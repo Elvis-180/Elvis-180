@@ -55,15 +55,23 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 ## Security Focus Areas
 
-<div><img src="https://img.shields.io/badge/SOC%20Operations-0A66C2?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Threat%20Detection-E74C3C?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Incident%20Response-2ECC71?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Log%20Analysis-3498DB?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/SIEM%20Operations-8E44AD?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Cloud%20Security-F39C12?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Network%20Security-16A085?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Endpoint%20Security-00ACC1?style=for-the-badge"></div>
-<div><img src="https://img.shields.io/badge/Vulnerability%20Assessment-8E44AD?style=for-the-badge"></div>
+<p>
+<img src="https://img.shields.io/badge/SOC%20Operations-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-E74C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident%20Response-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Log%20Analysis-3498DB?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SIEM%20Operations-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Security-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Endpoint%20Security-00ACC1?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-8E44AD?style=for-the-badge"/>
+</p>
 
 ---
 
