@@ -61,15 +61,15 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 | Project | Tools |
 |---------|-------|
-| **[SOC Home Lab](https://github.com/Elvis-180/soc-home-lab#readme)** | Splunk (SIEM), Snort (IDS), Sysmon, pfSense (Firewall) |
-| **[Active Directory](https://github.com/Elvis-180/Active-Directory#readme)** | Active Directory, DHCP, DNS, Group Policy |
-| **[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#readme)** | Splunk (SIEM), Snort (IDS), Nmap, Wireshark, pfSense (Firewall) |
+| **[SSH Brute Force Detection and Incident Response on AWS EC2](https://github.com/Elvis-180/ssh-brute-force-detection-and-incident-response-on-aws-ec2#readme)** | AWS EC2, Splunk Enterprise (SIEM), Ubuntu 22.04, Kali Linux, Hydra, Nmap, AWS CloudTrail, NIST SP 800-61 |
 | **[Email Phishing Simulation and Detection](https://github.com/Elvis-180/email-phishing-simulation-and-detection#readme)** | Splunk (SIEM), pfSense (Firewall), GoPhish, MailHog, MXToolbox Header Analyzer, Wireshark, Sysmon |
+| **[SOC Home Lab](https://github.com/Elvis-180/soc-home-lab#readme)** | Splunk (SIEM), Snort (IDS), Sysmon, pfSense (Firewall) |
+| **[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#readme)** | Splunk (SIEM), Snort (IDS), Nmap, Wireshark, pfSense (Firewall) |
 | **[RDP Brute-Force Detection](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)** | Splunk (SIEM), Windows Server, Windows Event Logs, MITRE ATT&CK, Kali Linux |
 | **[Nessus Vulnerability Assessment](https://github.com/Elvis-180/nessus-vulnerability-assessment#readme)** | Nessus Essentials, Oracle VirtualBox, Ubuntu Server, Windows Server, Windows 10, Kali Linux |
 | **[Nmap Network Scanning](https://github.com/Elvis-180/nmap-network-scanning#readme)** | Nmap, Snort (IDS), Splunk (SIEM), pfSense (Firewall) |
-| **[HTTP Traffic Analysis](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)** | Snort (IDS), Splunk (SIEM), Ubuntu Server, Kali Linux |
-
+| **[HTTP Traffic Analysis](https://github.com/Elvis-180/snort-splunk-http-traffic-analysis#readme)** | Snort (IDS), Splunk (SIEM), Wireshark, HTTP Protocol Analysis |
+| **[Active Directory](https://github.com/Elvis-180/Active-Directory#readme)** | Active Directory, DHCP, DNS, Group Policy |
 ---
 
 ## Education 
