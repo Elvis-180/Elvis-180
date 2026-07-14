@@ -79,7 +79,7 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 
 | Project | Tools |
 |---------|-------|
-| **[SSH Brute Force Detection and Incident Response on AWS EC2](https://github.com/Elvis-180/ssh-brute-force-detection-and-incident-response-on-aws-ec2#readme)** | AWS EC2, Splunk Enterprise (SIEM), Ubuntu 22.04, Kali Linux, Hydra, Nmap, AWS CloudTrail, NIST SP 800-61 |
+| **[SSH Brute Force Detection and Incident Response on AWS EC2](https://github.com/Elvis-180/aws-ssh-brute-force-detection#readme)** | AWS EC2, Splunk Enterprise (SIEM), Ubuntu 22.04, Kali Linux, Hydra, Nmap, AWS CloudTrail, NIST SP 800-61 |
 | **[Email Phishing Simulation and Detection](https://github.com/Elvis-180/email-phishing-simulation-and-detection#readme)** | Splunk (SIEM), pfSense (Firewall), GoPhish, MailHog, MXToolbox Header Analyzer, Wireshark, Sysmon |
 | **[SOC Home Lab](https://github.com/Elvis-180/soc-home-lab#readme)** | Splunk (SIEM), Snort (IDS), Sysmon, pfSense (Firewall) |
 | **[DoS/DDoS Detection and Response](https://github.com/Elvis-180/DoS-DDoS-Detection-and-Response#readme)** | Splunk (SIEM), Snort (IDS), Nmap, Wireshark, pfSense (Firewall) |
