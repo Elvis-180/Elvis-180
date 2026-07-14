@@ -86,8 +86,9 @@ Security Operation Center Analyst Focused on in threat detection, SIEM analysis 
 | **[RDP Brute-Force Detection](https://github.com/Elvis-180/rdp-bruteforce-detection-splunk-mitre#readme)** | Splunk (SIEM), Windows Server, Windows Event Logs, MITRE ATT&CK, Kali Linux |
 | **[Nessus Vulnerability Assessment](https://github.com/Elvis-180/nessus-vulnerability-assessment#readme)** | Nessus Essentials, Oracle VirtualBox, Ubuntu Server, Windows Server, Windows 10, Kali Linux |
 | **[Nmap Network Scanning](https://github.com/Elvis-180/nmap-network-scanning#readme)** | Nmap, Snort (IDS), Splunk (SIEM), pfSense (Firewall) |
-| **[HTTP Traffic Analysis](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)** | Snort (IDS), Splunk (SIEM), Wireshark, HTTP Protocol Analysis |
 | **[Active Directory](https://github.com/Elvis-180/Active-Directory#readme)** | Active Directory, DHCP, DNS, Group Policy |
+| **[HTTP Traffic Analysis](https://github.com/Elvis-180/snort-splunk-http-monitor#readme)** | Snort (IDS), Splunk (SIEM), Wireshark, HTTP Protocol Analysis |
+
 ---
 
 ## Education 
